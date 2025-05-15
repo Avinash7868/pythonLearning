@@ -26,4 +26,5 @@ Note:-
 
 # Virtual environment activate command
     conda activate <venv folder path>
+    <!-- conda activate udemy_course/venv_udemy -->
 
