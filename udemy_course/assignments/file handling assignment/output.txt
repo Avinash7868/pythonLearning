@@ -1,0 +1,4 @@
+Avinash
+hello
+world2
+output.txt
