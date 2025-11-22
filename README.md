@@ -28,3 +28,25 @@ Note:-
     conda activate <venv folder path>
     <!-- conda activate udemy_course/venv_udemy -->
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Udemy Course Log (skipped or revision needed) -->
+<!-- Section 23 - Inferential Statistics -->
+<!-- Section 25 -  -->
