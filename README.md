@@ -49,4 +49,4 @@ Note:-
 
 <!-- Udemy Course Log (skipped or revision needed) -->
 <!-- Section 23 - Inferential Statistics -->
-<!-- Section 25 -  -->
+<!-- Section 25 - vid - 134 and 135 only -->
